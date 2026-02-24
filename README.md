@@ -1,6 +1,6 @@
-# Aggregation-Aware Graph Policy — Federated Learning Simulation
+# Aggregation-Aware Graph Policy Federated Learning Simulation
 
-A SimPy-based simulation of a **privacy-preserving Federated Learning (FL)** pipeline over a realistic network topology. Plaintext model weights are trained on-device, encrypted at the edge using **CKKS homomorphic encryption** (TenSEAL), routed through an **In-Network Computing (INC)** overlay for homomorphic aggregation, and consumed by an **encrypted server** — no raw weights ever leave the device.
+A SimPy-based simulation of a **privacy-preserving Federated Learning (FL)** pipeline over a realistic network topology. Plaintext model weights are trained on-device, encrypted at the edge using **CKKS homomorphic encryption** (TenSEAL), routed through an **In-Network Computing (INC)** overlay for homomorphic aggregation, and consumed by an **encrypted server**  no raw weights ever leave the device.
 
 ---
 
